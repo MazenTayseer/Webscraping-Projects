@@ -2,7 +2,6 @@
 A python code to scrap products from newegg and sort them ascendingly by price, then put the results into a CSV file
 
 <h2>Steps</h2>
-<hr>
 <ul>
   <li>Install Python</li>
   <li>Download Newegg.py file</li>
