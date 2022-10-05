@@ -6,11 +6,11 @@ A python code to scrap products from newegg and sort them ascendingly by price, 
 <ul>
   <li>Install Python</li>
   <li>Download Newegg.py file</li>
-  <li>Install BeautifulSoup using **pip install beautifulsoup4**</li>
+  <li>Install BeautifulSoup using pip install beautifulsoup4</li>
   <li>Run Newegg.py</li>
   <li>Enter product you want to search for</li>
-  <li>Wait until **Done** shows in terminal</li>
-  <li>Your search results will be in a file called **./Webscraping/Newegg_Products.csv**</li>
+  <li>Wait until Done shows in terminal</li>
+  <li>Your search results will be in a file called ./Webscraping/Newegg_Products.csv</li>
 </ul>
 
 <img width="1128" alt="scrap 1" src="https://user-images.githubusercontent.com/101992888/193993353-53891368-625d-4b18-8071-61a5879b34e4.png">
